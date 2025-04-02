@@ -2,11 +2,6 @@
 
 # Improving Banker's Algorithm  
 
-## Authors  
-**Jal Bafana (K005)** | **Prakhar Mehta (K037)**  
-**Subject:** Operating Systems  
-**Submission Date:** 31.03.2025  
-
 ## Overview  
 This project enhances the **Banker’s Algorithm**, a deadlock avoidance method, by addressing its limitations in deadlock detection and resolution. Our improvements ensure better resource allocation handling in real-world systems.  
 
