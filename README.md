@@ -1,6 +1,6 @@
 # Operating-Systems-Project
 
-# Improving Banker's Algorithm  
+### Improving Banker's Algorithm  
 
 ## Overview  
 This project enhances the **Banker’s Algorithm**, a deadlock avoidance method, by addressing its limitations in deadlock detection and resolution. Our improvements ensure better resource allocation handling in real-world systems.  
